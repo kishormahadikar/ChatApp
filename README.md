@@ -1,7 +1,9 @@
-# someapp
+# chatapp
 
-A new Flutter project.
+READ ME
+This app was built using older version of flutter hence a few widgets may be depreciated/removed. If you are facing any problems while running the app or getting errors, downgrade flutter and then try again.
 
+This is a chat app using firebase
 ## Getting Started
 
 This project is a starting point for a Flutter application.
